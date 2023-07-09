@@ -4,13 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Alejandro Vásquez</h1>
 
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-vasquez) 
+  [![LinkedIn](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:alejandro.vasquez.taborda@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/avasquezt) 
+</div>
 
 # 💫 About Me:
 Fullstack developer
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-vasquez) 
 
 <div align="center">
 
@@ -18,8 +22,6 @@ Fullstack developer
 
 </div>
 <table align="center"><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -34,8 +36,6 @@ Fullstack developer
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -49,8 +49,6 @@ Fullstack developer
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
