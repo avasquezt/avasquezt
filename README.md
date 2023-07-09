@@ -63,7 +63,7 @@
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" height="50" /></a>  
         <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="GCP" height="50" /></a>  
         <a href="https://www.npmjs.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" height="50" /></a>  
-        <a href="./assets/Eclipse-Luna-Logo.svg" alt="Eclipse" height="50" /></a>  
+        <a href="https://www.eclipse.org/ide/" target="_blank"><img style="margin: 10px" src="./assets/Eclipse-Luna-Logo.svg" alt="Eclipse" height="50" /></a>  
       </div>
     </td>
   </tr>
