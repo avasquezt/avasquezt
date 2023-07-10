@@ -13,7 +13,10 @@
   
 </div>
 
-<h4 align="justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium voluptatibus, soluta aut officiis voluptatum ea velit ipsum saepe architecto minus ipsa iusto ut laboriosam nesciunt repellendus quos culpa non temporibus maiores? Qui inventore labore hic ullam ratione a, tempora quod corrupti non ipsam quisquam aperiam dicta corporis quam odio vero perferendis. Ipsa maiores doloremque natus? Perspiciatis cumque possimus reprehenderit labore veritatis maiores fuga, nesciunt distinctio error vero est illum voluptatibus nemo, at porro unde harum eos! Quisquam at delectus sint tenetur, ullam ad amet dolor ipsam mollitia quo necessitatibus molestias iste natus, eaque excepturi aliquid distinctio libero modi incidunt alias. Repellat libero quod sed iusto eligendi dolore, recusandae hic modi eum est quaerat eius perferendis similique reiciendis architecto dolores nam incidunt porro esse enim? Quidem ea, id quisquam libero impedit omnis cumque, tempore ipsa similique corrupti deserunt minima animi perspiciatis quibusdam, cum corporis in incidunt. Neque dolore eum harum quibusdam deserunt aliquam rerum ducimus laboriosam itaque perferendis molestias provident modi obcaecati repellendus mollitia quo impedit, praesentium aliquid voluptatum facere? Consequuntur, veniam mollitia voluptatem ipsa nulla debitis quod error distinctio saepe eligendi neque alias provident similique fuga, consequatur voluptates dignissimos. Perspiciatis nemo magnam accusamus mollitia neque quo, alias veritatis blanditiis excepturi.</h4>
+<h4 align="justify">
+  <p>Results-driven full-stack developer with a passion for creating innovative and user-centric web applications. Skilled in frontend technologies such as HTML, CSS, and JavaScript, with expertise in modern frameworks like Angular and Bootstrap. Proficient in server-side development using JavaScript and Java, with extensive knowledge of databases such as Oracle, PostgreSQL, MySQL and MongoDB.</p>
+  <p>Skilled in agile development methodologies, collaborating with cross-functional teams, and delivering high-quality software solutions. Committed to continuous learning and staying up-to-date with the latest trends and technologies in full-stack development.</p>
+</h4>
 
 
 <h1 align="center">💻 Tech Stack:</h1>
